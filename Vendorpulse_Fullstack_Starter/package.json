@@ -1,0 +1,27 @@
+{
+  "name": "vendorpulse-fullstack",
+  "version": "0.2.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "mongoose": "8.6.1",
+    "next": "14.2.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "10.4.20",
+    "postcss": "8.4.41",
+    "tailwindcss": "3.4.9",
+    "eslint": "9.9.1",
+    "eslint-config-next": "14.2.5"
+  },
+  "engines": {
+    "node": ">=18.18.0"
+  }
+}
