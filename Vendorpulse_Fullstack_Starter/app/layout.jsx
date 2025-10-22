@@ -1,5 +1,5 @@
 // app/layout.jsx
-import "./../styles/globals.css";
+import '../styles/globals.css";
 import Footer from "@/components/Footer";
 
 export const metadata = {
